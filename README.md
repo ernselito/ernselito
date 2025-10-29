@@ -1,14 +1,34 @@
-Hi, I'm Ernest Essel-Kaitoo, PhD, a data scientist passionate about applying machine learning and AI to solve real-world problems.
+# Hi there! I'm Ernest Essel-Kaitoo, PhD
 
-**🔍 What I Do**
+A data scientist with a passion for applying machine learning and AI to drive meaningful impact. I thrive on transforming complex data into actionable insights and am always excited to collaborate on innovative projects.
 
-- Machine Learning & Modeling: Regression, classification, and clustering methods
-- Data Science Workflow: Cleaning, transformation, feature extraction, and model validation
-- Research Interests: Optimization, Distance metrics, AI, and algorithmic bias
-- Technical Stack: Python, scikit-learn, pandas, NumPy, Jupyter, Git, Pytorch, Keras, Transformers
+## About Me
+
+- **Machine Learning & Modeling**: Experienced in developing, validating, and deploying production-ready models using regression, classification, and clustering techniques.
+- **Data Science Workflow**: Proficient in the end-to-end pipeline—from data cleaning and feature engineering to model deployment and monitoring.
+- **Research Interests**: My academic background fuels my interest in optimization, distance metrics, algorithmic bias, and the theoretical foundations of AI.
+
+## My Toolbox 
+
+- **Programming Languages**: Python, R and SQL
+- **Machine Learning Frameworks**: scikit-learn, PyTorch, Keras, Transformers
+- **Data Science Tools**: Pandas, NumPy, Jupyter, Git
+
+## Let's Collaborate! 
+
+I'm actively looking to partner on:
+- Cutting-edge research projects
+- Data-driven products and solutions
+- Open-source collaborations
+
+## Get in Touch 📱
+
+- **Email**: [ernselito@gmail.com](mailto:ernselito@gmail.com)
+- **LinkedIn**: [Ernest Essel Kaitoo](https://www.linkedin.com/in/ernselito/) 
+- **Website**: [ernselito.github.io]
+
+## My Philosophy 📚
+
+ **_Data is not just numbers — it’s a story waiting to be modeled._**
 
 
-
-I’m open to collaborations, research discussions, and data-driven opportunities. Connect via [email: ernselito@gmail.com](mailto:ernselito@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ernselito/).
-
-“Data is not just numbers — it’s a story waiting to be modeled.”
