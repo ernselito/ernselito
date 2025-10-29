@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Ernest Essel-Kaitoo, PhD, a data scientist passionate about applying machine learning and AI to solve real-world problems.
 
-<!--
-**richkaitoo/richkaitoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔍 What I Do**
 
-Here are some ideas to get you started:
+- Machine Learning & Modeling: Regression, classification, and clustering methods
+- Data Science Workflow: Cleaning, transformation, feature extraction, and model validation
+- Research Interests: Optimization, Distance metrics, AI, and algorithmic bias
+- Technical Stack: Python, scikit-learn, pandas, NumPy, Jupyter, Git, Pytorch, Keras, Transformers
 
-- 🔭 I’m currently working on ..th.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I’m open to collaborations, research discussions, and data-driven opportunities. Connect via [email: ernselito@gmail.com](mailto:ernselito@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ernselito/).
+
+“Data is not just numbers — it’s a story waiting to be modeled.”
