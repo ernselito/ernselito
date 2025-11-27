@@ -21,7 +21,7 @@ Welcome to my project portfolio! Here you will find my work on predictive modeli
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Housing Price Engineering](https://github.com/ernselito/Impact-of-Feature-Transformation-on-Machine-Learning-)** | Quantifying the impact of feature engineering on housing price prediction. Achieved a 12% reduction in RMSE by implementing spatial analysis and Haversine distance features.| `Python`, `Scikit-Learn` |
-| **[Project Name 2](LINK_TO_REPO)** | Brief description (e.g., Customer Churn classifier for telecom data). | `Pandas`, `Random Forest` |
+| **[Advanced Day Ahead Energy Load Forecasting](https://github.com/ernselito/Advanced-Day-Ahead-Energy-Load-Forecasting/tree/main)** | Machine Learning Model capable of predicting hourly energy demand 24 hours in advance| `shap`, `scikit-learn`, `kagglehub`|
 
 ###  Data Analysis & Visualization
 | Project | Description | Tech Stack |
