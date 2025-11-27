@@ -31,7 +31,7 @@ Welcome to my project portfolio! Here you will find my work on predictive modeli
 ### 🧠 Machine Learning
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project Name 1](LINK_TO_REPO)** | Brief description (e.g., Predicted housing prices with 95% accuracy using XGBoost). | `Python`, `Scikit-Learn` |
+| **[Housing Price Engineering](LINK_TO_REPO)** | Quantifying the impact of feature engineering on housing price prediction. Achieved a 12% reduction in RMSE by implementing spatial analysis and Haversine distance features.| `Python`, `Scikit-Learn` |
 | **[Project Name 2](LINK_TO_REPO)** | Brief description (e.g., Customer Churn classifier for telecom data). | `Pandas`, `Random Forest` |
 
 ### 📉 Data Analysis & Visualization
