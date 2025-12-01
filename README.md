@@ -23,16 +23,6 @@ Welcome to my project portfolio! Here you will find my work on predictive modeli
 | **[Housing Price Engineering](https://github.com/ernselito/Impact-of-Feature-Transformation-on-Machine-Learning-)** | Quantifying the impact of feature engineering on housing price prediction. Achieved a 12% reduction in RMSE by implementing spatial analysis and Haversine distance features.| `Python`, `Scikit-Learn` |
 | **[Advanced Day Ahead Energy Load Forecasting](https://github.com/ernselito/Advanced-Day-Ahead-Energy-Load-Forecasting/tree/main)** | Machine Learning Model capable of predicting hourly energy demand 24 hours in advance| `shap`, `scikit-learn`, `kagglehub`|
 
-###  Data Analysis & Visualization
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project Name 3](LINK_TO_REPO)** | Exploratory Data Analysis (EDA) on global climate change trends. | `Matplotlib`, `Seaborn` |
-| **[Project Name 4](LINK_TO_REPO)** | Interactive dashboard for sales forecasting. | `Streamlit`, `Plotly` |
-
-###  Deep Learning / NLP
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project Name 5](LINK_TO_REPO)** | Sentiment analysis on 50k movie reviews. | `TensorFlow`, `BERT` |
 
 ---
 
